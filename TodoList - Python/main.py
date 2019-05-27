@@ -29,6 +29,6 @@ while answer != "EXIT":
     if answer == "A":
         for i in total_tasks:
             print(i)
-        input("Enter any key to continue")
+    input("Enter any key to continue")
 
 
